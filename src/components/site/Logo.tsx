@@ -22,7 +22,7 @@ export function Logo({ className = "h-11 w-11" }: { className?: string }) {
         fontSize="16"
         fill="oklch(0.98 0 0)"
       >
-        FX
+        FES
       </text>
     </svg>
   );
@@ -34,7 +34,7 @@ export function Wordmark() {
       <Logo className="h-11 w-11 shrink-0 text-primary" />
       <span className="min-w-0 leading-none">
         <span className="block font-display text-2xl tracking-wide">
-          <span className="text-primary">FX</span> SAFETY
+          <span className="text-primary">FIRE EXPERT</span> SAFETY
         </span>
         <span className="block text-[0.6rem] font-semibold tracking-[0.35em] text-muted-foreground">
           SOLUTIONS

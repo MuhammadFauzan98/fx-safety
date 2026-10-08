@@ -77,14 +77,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "FX Safety Solutions | Complete Fire & Protection Safety Solutions" },
+      { title: "Fire Expert Safety Solutions | Complete Fire & Protection Safety Solutions" },
       {
         name: "description",
         content:
           "Fire extinguishers, alarm, hydrant and sprinkler systems, exit lights, safety audits, AMC and safety equipment in Telangana.",
       },
-      { name: "author", content: "FX Safety Solutions" },
-      { property: "og:title", content: "FX Safety Solutions" },
+      { name: "author", content: "Fire Expert Safety Solutions" },
+      { property: "og:title", content: "Fire Expert Safety Solutions" },
       {
         property: "og:description",
         content: "Protecting Lives. Securing Dreams. Complete fire & protection safety solutions.",

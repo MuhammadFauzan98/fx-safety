@@ -1,6 +1,6 @@
-# FX Safety Solutions
+# Fire Expert Safety Solutions
 
-Marketing website for FX Safety Solutions, a fire safety and protection equipment supplier serving Medchal Malkajgiri District, Telangana.
+Marketing website for Fire Expert Safety Solutions, a fire safety and protection equipment supplier serving Medchal Malkajgiri District, Telangana.
 
 The site presents the company, fire safety services, products, safety equipment, maintenance offerings, and contact details in a responsive single-page experience.
 
@@ -85,7 +85,7 @@ The project is configured as a Vite/TanStack Start application. Use the deployme
 
 ## Business Contact
 
-FX Safety Solutions
+Fire Expert Safety Solutions
 
 6-97, Shutter No. 2, Opp. Indian Oil Pump, Basaragadi Village, Medchal Malkajgiri District, Telangana 501401
 

@@ -192,7 +192,9 @@ export function Services() {
                   {service.description}
                 </p>
                 <a
-                  href={whatsappLink(`Hi, I want details about ${service.title} from FX Safety Solutions.`)}
+                  href={whatsappLink(
+                    `Hi, I want details about ${service.title} from Fire Expert Safety Solutions.`,
+                  )}
                   target="_blank"
                   rel="noreferrer"
                   className="mt-5 inline-flex items-center gap-2 text-xs font-bold uppercase tracking-wide text-highlight hover:gap-3"
@@ -462,7 +464,7 @@ export function Contact() {
                   <Phone className="h-4 w-4" /> Call Now
                 </a>
                 <a
-                  href={whatsappLink("Hi FX Safety Solutions, I would like a quote.")}
+                  href={whatsappLink("Hi Fire Expert Safety Solutions, I would like a quote.")}
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex items-center justify-center gap-2 rounded border border-highlight px-4 py-3 text-xs font-bold uppercase tracking-wide text-highlight hover:bg-highlight hover:text-highlight-foreground"
@@ -474,7 +476,7 @@ export function Contact() {
 
             <div className="overflow-hidden rounded-xl border border-border bg-card">
               <iframe
-                title="FX Safety Solutions location"
+                title="Fire Expert Safety Solutions location"
                 src="https://www.google.com/maps?q=Basaragadi%20Village%20Medchal%20Malkajgiri%20Telangana%20501401&output=embed"
                 loading="lazy"
                 className="h-64 w-full border-0"

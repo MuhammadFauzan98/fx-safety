@@ -6,7 +6,7 @@ import prodBlanket from "@/assets/prod-blanket.jpg";
 import prodPpe from "@/assets/prod-ppe.jpg";
 
 export const BUSINESS = {
-  name: "FX Safety Solutions",
+  name: "Fire Expert Safety Solutions",
   tagline: "Protecting Lives. Securing Dreams.",
   slogan: "Complete Fire & Protection Safety Solutions",
   contactPerson: "Mohammad Zakir",

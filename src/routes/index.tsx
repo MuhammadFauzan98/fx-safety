@@ -12,9 +12,9 @@ import {
   WhyUs,
 } from "@/components/site/Sections";
 
-const title = "FX Safety Solutions | Fire Safety Equipment in Telangana";
+const title = "Fire Expert Safety Solutions | Fire Safety Equipment in Telangana";
 const description =
-  "FX Safety Solutions supplies, installs and maintains fire extinguishers, alarm, hydrant and sprinkler systems, exit lights and safety equipment across Medchal Malkangiri, Telangana.";
+  "Fire Expert Safety Solutions supplies, installs and maintains fire extinguishers, alarm, hydrant and sprinkler systems, exit lights and safety equipment across Medchal Malkangiri, Telangana.";
 
 export const Route = createFileRoute("/")({
   head: () => ({

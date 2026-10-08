@@ -10,4 +10,4 @@
 <!-- LOVABLE:END -->
 
 ## Site structure
-- The FX Safety Solutions marketing site is a single page at src/routes/index.tsx composed of section components in src/components/site/ (Sections.tsx, Header.tsx, Logo.tsx, icons.tsx) with all business copy/data in src/components/site/data.ts — one source of truth for contact details and catalog items.
+- The Fire Expert Safety Solutions marketing site is a single page at src/routes/index.tsx composed of section components in src/components/site/ (Sections.tsx, Header.tsx, Logo.tsx, icons.tsx) with all business copy/data in src/components/site/data.ts — one source of truth for contact details and catalog items.
